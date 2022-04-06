@@ -1,0 +1,17 @@
+.head-line{
+    
+
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+}
+
+.head-line h1{
+    text-align: center;
+    color: #1B262C;
+}
+.head-line h2{
+    text-align: center;
+    color: #0F044C;
+}
+
+

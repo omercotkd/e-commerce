@@ -1,0 +1,12 @@
+.comments-area{
+    text-align: right;
+    height: 200px;
+    width: 50%;
+    height: 150px;
+}
+
+@media  (max-width: 770px) {
+    .comments-area{
+        width: 80%;
+    }
+}

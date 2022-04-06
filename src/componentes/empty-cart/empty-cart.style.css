@@ -1,0 +1,13 @@
+.no-items-cart{
+   transform: scale(8);
+   position: absolute;
+   right: 50vw;
+   top: 50vh;
+}
+
+.empty-cart-div{
+    position: absolute;
+    right: 20vw;
+    top: 20vh;
+}
+

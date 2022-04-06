@@ -1,0 +1,57 @@
+.links {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.links:hover {  
+    color: inherit;
+    text-decoration: inherit;
+    cursor:pointer; 
+}
+
+.links img {
+    height: 30px;
+    width: 30px;
+    transform: scale(1.5, 1.5);
+    -ms-transform: scale(1.5, 1.5);
+    -webkit-transform: scale(1.5, 1.5);  
+    margin-right: 20px;
+}
+
+.navbar-nav {
+    padding-right: 15px;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.navber-parent{
+    position: relative;
+    background-color: #BBE1FA;
+    box-shadow: 0px 0 10px rgba(0, 0, 0, 0.8);
+    border: 1px #bbe1fa solid;
+    
+}
+
+@media screen and (min-width: 768px){
+    .float-to-the-right{
+        top: 0;
+        right: 0; 
+        bottom: 0;
+        position: absolute;
+        margin-right: 10px;
+}
+
+   
+}
+
+.nav-drop-item{
+    color: #1B262C;
+    font-size: 18px;
+}
+
+.navbar-brand{
+    font-weight: 900;
+    
+}
